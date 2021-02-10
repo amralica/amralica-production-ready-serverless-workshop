@@ -1,7 +1,1 @@
-echo "# amralica-production-ready-serverless-workshop" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/amralica/amralica-production-ready-serverless-workshop.git
-git push -u origin main
+
