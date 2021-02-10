@@ -1,0 +1,12 @@
+# package directories
+node_modules
+jspm_packages
+README copy.md
+lambda event response.png
+# Serverless directories
+.serverless
+.env
+# Ignore serverless manifest files
+serverless.manifest.json
+.serverless/manifest.json
+.DS_Storeg
